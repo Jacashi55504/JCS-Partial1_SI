@@ -22,11 +22,6 @@ pipenv install --ignore-pipfile
 pipenv shell
 ```
 
-4️⃣ **Ejecuta el código**
-```bash
-python script_firma.py
-```
-
 ## Tecnologías Utilizadas
 - Python 3.x
 - PyCryptodome (para RSA y firmas digitales)
