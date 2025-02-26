@@ -33,12 +33,6 @@ python script_firma.py
 - hashlib (para generación de hashes)
 - PyPDF2 (para manejo de archivos PDF)
 
-## Funcionalidades
-✅ Generación de claves RSA para Alice y Bob  
-✅ Firma digital de archivos y mensajes  
-✅ Verificación de la autenticidad de las firmas  
-✅ Manejo de archivos PDF firmados digitalmente  
-
 ## 👨‍💻 Autor
 **JCS** 
 
