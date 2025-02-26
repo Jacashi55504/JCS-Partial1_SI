@@ -1,6 +1,4 @@
-# JCS-Partial1_SI
-
-### Proyecto de Ciberseguridad - Parcial 1
+# Proyecto de Ciberseguridad - Parcial 1
 
 ## 📌 Descripción
 Este proyecto forma parte del proyecto primer parcial de la materia **Seguridad y Análisis**. Se centra en la implementación y análisis de firmas digitales mediante RSA y el manejo de archivos para garantizar la integridad y autenticidad de la información.
