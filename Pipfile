@@ -5,6 +5,7 @@ name = "pypi"
 
 [packages]
 pycryptodome = "*"
+pypdf2 = "*"
 
 [dev-packages]
 
